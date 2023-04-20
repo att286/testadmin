@@ -1,0 +1,62 @@
+.ant-pro-number-info .number-info-value .sub-total :global .anticon-caret-up[data-v-4370c5af]{ color: #f5222d}
+.ant-pro-trend .up[data-v-32356f0b]{ color: #f5222d}
+.ant-pro-trend.reverse-color .down[data-v-32356f0b]{ color: #f5222d}
+.ant-alert-error{ background-color: #fff1f0; border: 1px solid #ffa39e}
+.ant-alert-error .ant-alert-icon{ color: #f5222d}
+.ant-badge-count{ background: #f5222d}
+.ant-badge-dot{ background: #f5222d}
+.ant-badge-status-error{ background-color: #f5222d}
+.ant-badge-status-red{ background: #f5222d}
+.ant-btn-danger{ background-color: #ff4d4f; border-color: #ff4d4f}
+.ant-btn-danger:focus,.ant-btn-danger:hover{ background-color: #ff7875; border-color: #ff7875}
+.ant-btn-background-ghost.ant-btn-danger{ color: #ff4d4f; border-color: #ff4d4f}
+.ant-btn-background-ghost.ant-btn-danger:focus,.ant-btn-background-ghost.ant-btn-danger:hover{ color: #ff7875; border-color: #ff7875}
+.ant-cascader-menu-item .ant-cascader-menu-item-keyword{ color: #f5222d}
+.ant-form-item-required::before{ color: #f5222d}
+.has-error .ant-form-explain,.has-error .ant-form-split{ color: #f5222d}
+.has-error .ant-input,.has-error .ant-input:hover{ border-color: #f5222d}
+.has-error .ant-input:focus{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-input:not([disabled]):hover{ border-color: #f5222d}
+.has-error .ant-calendar-picker-open .ant-calendar-picker-input{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-input-affix-wrapper .ant-input,.has-error .ant-input-affix-wrapper .ant-input:hover{ border-color: #f5222d}
+.has-error .ant-input-affix-wrapper .ant-input:focus{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled){ border-color: #f5222d}
+.has-error .ant-input-prefix{ color: #f5222d}
+.has-error .ant-input-group-addon{ color: #f5222d; border-color: #f5222d}
+.has-error .has-feedback{ color: #f5222d}
+.has-error.has-feedback .ant-form-item-children-icon{ color: #f5222d}
+.has-error .ant-select-selection{ border-color: #f5222d}
+.has-error .ant-select-selection:hover{ border-color: #f5222d}
+.has-error .ant-select-focused .ant-select-selection,.has-error .ant-select-open .ant-select-selection{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-select.ant-select-auto-complete .ant-input:focus{ border-color: #f5222d}
+.has-error .ant-calendar-picker-icon::after,.has-error .ant-cascader-picker-arrow,.has-error .ant-picker-icon::after,.has-error .ant-select-arrow,.has-error .ant-time-picker-icon::after{ color: #f5222d}
+.has-error .ant-input-number,.has-error .ant-time-picker-input{ border-color: #f5222d}
+.has-error .ant-input-number-focused,.has-error .ant-input-number:focus,.has-error .ant-time-picker-input-focused,.has-error .ant-time-picker-input:focus{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-input-number:not([disabled]):hover,.has-error .ant-time-picker-input:not([disabled]):hover{ border-color: #f5222d}
+.has-error .ant-mention-wrapper .ant-mention-editor,.has-error .ant-mention-wrapper .ant-mention-editor:not([disabled]):hover{ border-color: #f5222d}
+.has-error .ant-mention-wrapper .ant-mention-editor:not([disabled]):focus,.has-error .ant-mention-wrapper.ant-mention-active:not([disabled]) .ant-mention-editor{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-cascader-picker:focus .ant-cascader-input{ border-color: #ff4d4f; -webkit-box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2); box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)}
+.has-error .ant-cascader-picker:hover .ant-cascader-input{ border-color: #f5222d}
+.has-error .ant-transfer-list{ border-color: #f5222d}
+.ant-message-error .anticon{ color: #f5222d}
+.ant-modal-confirm-error .ant-modal-confirm-body>.anticon{ color: #f5222d}
+.anticon.ant-notification-notice-icon-error{ color: #f5222d}
+.ant-progress-status-exception .ant-progress-bg{ background-color: #f5222d}
+.ant-progress-status-exception .ant-progress-text{ color: #f5222d}
+.ant-progress-status-exception .ant-progress-inner:not(.ant-progress-circle-gradient) .ant-progress-circle-path{ stroke: #f5222d}
+.ant-progress-circle.ant-progress-status-exception .ant-progress-text{ color: #f5222d}
+.ant-result-error .ant-result-icon>.anticon{ color: #f5222d}
+.ant-steps-item-error .ant-steps-item-icon{ border-color: #f5222d}
+.ant-steps-item-error .ant-steps-item-icon>.ant-steps-icon{ color: #f5222d}
+.ant-steps-item-error .ant-steps-item-icon>.ant-steps-icon .ant-steps-icon-dot{ background: #f5222d}
+.ant-steps-item-error>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title{ color: #f5222d}
+.ant-steps-item-error>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-description{ color: #f5222d}
+.ant-steps-item.ant-steps-next-error .ant-steps-item-title::after{ background: #f5222d}
+.ant-tag-red{ color: #f5222d; background: #fff1f0; border-color: #ffa39e}
+.ant-tag-red-inverse{ background: #f5222d; border-color: #f5222d}
+.ant-time-picker-panel-input-invalid{ border-color: #f5222d}
+.ant-timeline-item-head-red{ color: #f5222d; border-color: #f5222d}
+.ant-tree li.filter-node>span{ color: #f5222d !important}
+.ant-upload-list-item-error,.ant-upload-list-item-error .ant-upload-list-item-name,.ant-upload-list-item-error .anticon-paper-clip{ color: #f5222d}
+.ant-upload-list-item-error .ant-upload-list-item-card-actions .anticon{ color: #f5222d}
+.ant-upload-list-picture .ant-upload-list-item-error,.ant-upload-list-picture-card .ant-upload-list-item-error{ border-color: #f5222d}
